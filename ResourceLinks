@@ -5,6 +5,9 @@ Lectures by Gene Schroeder
 https://www.eclipse.org/downloads/packages/release/2020-12/r/eclipse-ide-embedded-cc-developers
 Eclipse Embedded C/C++ IDE Download Link
 
+https://www.st.com/en/development-tools/stm32cubeide.html
+STM32 CubeIDE Download - Note that the board may not work with the very latest version, so if incompatible then change the version (to 18 or 19).
+
 https://www.st.com/resource/en/datasheet/stm32l432kc.pdf
 STM32 NUCLEO-L432KC Datasheet
 
@@ -13,3 +16,4 @@ STM32 NUCLEO-L432KC Reference Manual
 
 https://documentation-service.arm.com/static/5fce431be167456a35b36ade
 ARM Cortex Technical Reference Manual
+
